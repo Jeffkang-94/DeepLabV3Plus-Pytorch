@@ -1,0 +1,1 @@
+python main.py --model deeplabv3plus_mobilenet --dataset cityscapes --gpu_id 0  --lr 0.1  --crop_size 768 --batch_size 16 --output_stride 16 --data_root /mnt2/datasets/cityscapes
